@@ -1,0 +1,41 @@
+***DOM Tree? 
+***Style Structures?
+***Render Tree?
+***Paint?
+
+*** How Browser Works Overall?
+***document.body.contentEditable = true
+***Different Types of API?
+*** Categories of Browser ApIs?
+
+***What is Browser API?
+***BOM vs DOM?
+***3Types of pop-up box?
+---> 1. Alert Box.
+---> 2. Confirmation Box.
+---> 3. Prompt Box.
+
+***Location(url Parsing)-properties
+***History API?
+--->History.Back()
+--->History.forward()
+--->History.Go()
+
+***What is Cookie?
+***Purpose of Cookie?
+***Parts of Cookie?
+*** Types of Cookie?
+*** What is Http Only Cookie?
+
+*** LocalStorage?
+---> setItems('Age', '21')
+---> getItems('Key/Age')
+---> removeItems('key/Age')
+---> LocalStorage.Clear()
+---> length
+
+***What is Session Storage?
+
+
+
+
